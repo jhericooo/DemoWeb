@@ -1,4 +1,5 @@
-.div1 {
+/* Remove spacing between paragraphs inside .div1 */
+.div1 p {
     margin: 0;
     padding: 0;
 }
