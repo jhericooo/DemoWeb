@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: lightblue;
 }
 
 /* Remove spacing between paragraphs inside .div1 */
@@ -8,5 +8,5 @@ body {
     padding: 0;
 }
 #home {
-    background-color: orange;
+    background-color: lightorange;
 }
