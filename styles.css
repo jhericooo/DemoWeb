@@ -1,3 +1,7 @@
+body {
+    background-color: blue;
+}
+
 /* Remove spacing between paragraphs inside .div1 */
 .div1 p {
     margin: 0;
